@@ -18,11 +18,11 @@ You are viewing the _Public_ welcome page. If you are a GSF member, please log i
 | Opensource WG|Opensource Projects|                                                Policy WG|Policy Projects |
 | ----------- | -------------------------------------------------------|----------- | ------|
 | [Opensource](https://github.com/Green-Software-Foundation/opensource-wg)|Toplevel repo | [Policy](https://github.com/Green-Software-Foundation/policy-wg)|Toplevel repo|
-| | [Carbon aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) | | [State of Green Software](https://github.com/Green-Software-Foundation/state-of-green-software)|
+| | [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) | | [State of Green Software](https://github.com/Green-Software-Foundation/state-of-green-software)|
 | | [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)  |||
 | | [Carbon CI](https://github.com/Green-Software-Foundation/carbon-ci)                            |||
 | | [Impact Engine Framework](https://github.com/Green-Software-Foundation/carbon-ql)                             |||
-| | [SCI Open Ontology](https://github.com/Green-Software-Foundation/sci-open-ontology)           |||
+
 
 <!--
 
