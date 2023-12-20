@@ -5,24 +5,28 @@ You are viewing the _Public_ welcome page. If you are a GSF member, please log i
 
 <img src="https://user-images.githubusercontent.com/8318213/219030886-3148de11-6d39-4e74-b450-5489bde8414b.png" width="650" />
 
-| Community WG|Community Projects|                                                Standards WG|Standards Projects |
-| ----------- | -------------------------------------------------------|----------- | ------|
-| [Community](https://github.com/Green-Software-Foundation/community-wg)|Toplevel repo | [Standards](https://github.com/Green-Software-Foundation/standards-wg)|Toplevel repo|
-|  | [Champions](https://github.com/Green-Software-Foundation/champions)  | | [SCI Spec](https://github.com/Green-Software-Foundation/sci)|
-|  | [Patterns](https://github.com/Green-Software-Foundation/patterns)  | | [SCI Guide](https://github.com/Green-Software-Foundation/sci-guide)|
-|  | [Meetup](https://github.com/Green-Software-Foundation/meetup)      | |  [SCER](https://github.com/Green-Software-Foundation/scer)|
-|  | [Principles](https://github.com/Green-Software-Foundation/learn)  | | [Real-Time Cloud](https://github.com/Green-Software-Foundation/real-time-cloud)|
-|  | [Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) | ||
+
+| Community| Standards | Opensource | Policy
+| ----------- | -------------------------------------------------------| ------ | ---- |
+| **[Community Working Group](https://github.com/Green-Software-Foundation/community-wg)**| **[Standards Working Group](https://github.com/Green-Software-Foundation/standards-wg)**| **[Opensource Working Group](https://github.com/Green-Software-Foundation/opensource-wg)** | **[Policy Working Group](https://github.com/Green-Software-Foundation/policy-wg)**
+| _Projects_ ⬇️ | _Projects_ ⬇️| _Projects_ ⬇️| _Projects_ ⬇️|
+|  [Students](https://github.com/Green-Software-Foundation/students) (Coming Soon)  | [SCI Spec](https://github.com/Green-Software-Foundation/sci)|[Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) |  [State of Green Software](https://github.com/Green-Software-Foundation/state-of-green-software)| 
+|  [Patterns](https://github.com/Green-Software-Foundation/patterns)  | [SCI Guide](https://github.com/Green-Software-Foundation/sci-guide)|[Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)  |
+|  [Principles](https://github.com/Green-Software-Foundation/learn)  |  [SCER](https://github.com/Green-Software-Foundation/scer)|[Carbon CI](https://github.com/Green-Software-Foundation/carbon-ci)           |
+|  [Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) | [Real-Time Cloud](https://github.com/Green-Software-Foundation/real-time-cloud)| [Impact Framework](https://github.com/Green-Software-Foundation/if) |
+|     |[Org. usage/Software Emissions](https://github.com/Green-Software-Foundation/organisation-usage-of-software-emissions)|
 ---------
 
-| Opensource WG|Opensource Projects|                                                Policy WG|Policy Projects |
-| ----------- | -------------------------------------------------------|----------- | ------|
-| [Opensource](https://github.com/Green-Software-Foundation/opensource-wg)|Toplevel repo | [Policy](https://github.com/Green-Software-Foundation/policy-wg)|Toplevel repo|
-| | [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) | | [State of Green Software](https://github.com/Green-Software-Foundation/state-of-green-software)|
-| | [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)  |||
-| | [Carbon CI](https://github.com/Green-Software-Foundation/carbon-ci)                            |||
-| | [Impact Engine Framework](https://github.com/Green-Software-Foundation/carbon-ql)                             |||
+| Executive Programs |
+| ----------- |
+|  [Champions](https://github.com/Green-Software-Foundation/champions)  |
+| [Meetup](https://github.com/Green-Software-Foundation/meetup)      |
+| [Carbon Hack](https://github.com/Green-Software-Foundation/hack)      |
 
+---
+
+> [!NOTE]
+> Executive Programs are not overseen by a Working Group, but may be referred to in Working Group meetings as-relevant.
 
 <!--
 
