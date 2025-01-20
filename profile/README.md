@@ -1,39 +1,38 @@
-## Welcome to the GSF 🙌 
+# Welcome to the Green Software Foundation
 You are viewing the _Public_ welcome page. If you are a GSF member, please log in or contact your [organisational lead](https://greensoftware.foundation/team) to gain access.
 
-#### The best place to start as a community participant is [GitHub Discussions](https://grnsft.org/discuss) - why not [introduce yourself](https://github.com/orgs/Green-Software-Foundation/discussions/2) today.
+**The best place to start as a community participant is [GitHub Discussions](https://grnsft.org/discuss) - why not [introduce yourself](https://github.com/orgs/Green-Software-Foundation/discussions/2) today.**
 
-<img src="https://user-images.githubusercontent.com/8318213/219030886-3148de11-6d39-4e74-b450-5489bde8414b.png" width="650" />
+<img src="https://user-images.githubusercontent.com/8318213/219030886-3148de11-6d39-4e74-b450-5489bde8414b.png"  />
 
-| Community| Standards | Opensource | Policy
-| ----------- | -------------------------------------------------------| ------ | ---- |
-| **[Community Working Group](https://github.com/Green-Software-Foundation/community-wg)**| **[Standards Working Group](https://github.com/Green-Software-Foundation/standards-wg)**| **[Opensource Working Group](https://github.com/Green-Software-Foundation/opensource-wg)** | **[Policy Working Group](https://github.com/Green-Software-Foundation/policy-wg)**
-| _Projects_ ⬇️ | _Projects_ ⬇️| _Projects_ ⬇️| _Projects_ ⬇️|
-| [Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) | [SCI Spec](https://github.com/Green-Software-Foundation/sci)|[Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) |  [State of Green Software](https://github.com/Green-Software-Foundation/state-of-green-software)| 
-| [Patterns](https://github.com/Green-Software-Foundation/patterns)   | [SCI Guide](https://github.com/Green-Software-Foundation/sci-guide)|[Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)  |
-| [Principles](https://github.com/Green-Software-Foundation/learn)  |  [SCER](https://github.com/Green-Software-Foundation/scer)|[Carbon CI](https://github.com/Green-Software-Foundation/carbon-ci)           |
-| [Playbooks](https://github.com/Green-Software-Foundation/green-software-playbooks) | [Real-Time Cloud](https://github.com/Green-Software-Foundation/real-time-cloud)| [Impact Framework](https://github.com/Green-Software-Foundation/if) |
-|   |[Transforming Organisational Software Sustainability](https://github.com/Green-Software-Foundation/organisation-usage-of-software-emissions)|
----------
+Full details of our [Working Groups](https://wiki.greensoftware.foundation/governance-working-groups) & [Projects](https://wiki.greensoftware.foundation/project) can be found on the [GSF Wiki](https://wiki.greensoftware.foundation/).
 
-| Executive Programs |
-| ----------- |
-| [Champions](https://github.com/Green-Software-Foundation/champions)  |
-| [Meetup](https://github.com/Green-Software-Foundation/meetup)      |
-| [Carbon Hack](https://github.com/Green-Software-Foundation/hack)      |
+## Our Working Groups
 
----
+* [Software Standards Working Group](https://github.com/Green-Software-Foundation/standards-wg)
+* [Hardware Standards Working Group](https://github.com/Green-Software-Foundation/hardware-standards-wg)
+* [Policy Working Group](https://github.com/Green-Software-Foundation/policy-wg)
 
-> [!NOTE]
-> Executive Programs are not overseen by a Working Group, but may be referred to in Working Group meetings as-relevant.
+## Our Standards
+* [Software Carbon Intensity specification](https://github.com/Green-Software-Foundation/sci)
+* [SCI Guide](https://github.com/Green-Software-Foundation/sci-guide)
+* [Software Carbon Intensity for Artificial intelligence](https://github.com/Green-Software-Foundation/sci-ai)
+* [Real-Time Cloud](https://github.com/Green-Software-Foundation/real-time-cloud)
+* [SCER](https://github.com/Green-Software-Foundation/scer)
 
-<!--
+## Adoption Projects
 
-**Here are some ideas to get you started:**
+* [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
+* [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
+* [Impact Framework](https://github.com/Green-Software-Foundation/if)
+* [Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix)
+* [Patterns](https://github.com/Green-Software-Foundation/patterns)
+* [Principles](https://github.com/Green-Software-Foundation/learn)
+* [Playbooks](https://github.com/Green-Software-Foundation/green-software-playbooks)
+* [Transforming Organisational Software Sustainability](https://github.com/Green-Software-Foundation/toss)
+* [Policy Radar](https://github.com/Green-Software-Foundation/policy_radar)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Executive Programs
+* [Champions](https://github.com/Green-Software-Foundation/champions)
+* [Meetup](https://github.com/Green-Software-Foundation/meetup)
+* [Carbon Hack](https://github.com/Green-Software-Foundation/hack)
