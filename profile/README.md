@@ -10,7 +10,7 @@ Full details of our [Working Groups](https://wiki.greensoftware.foundation/gover
 ## Our Working Groups
 
 * [Software Standards Working Group](https://github.com/Green-Software-Foundation/standards-wg)
-* [Hardware Standards Working Group](https://github.com/Green-Software-Foundation/hardware-standards-wg)
+* [Hardware Standards Working Group](https://github.com/Green-Software-Foundation/hardware-standards-wg) (Member Only)
 * [Policy Working Group](https://github.com/Green-Software-Foundation/policy-wg)
 
 ## Our Standards
